@@ -1,1 +1,1 @@
-command to print the absolute path name of the current working directory
+command to display the content of a directory
