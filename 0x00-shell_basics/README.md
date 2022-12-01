@@ -1,1 +1,1 @@
-command to create directory
+command to move file betty to my_first directory
