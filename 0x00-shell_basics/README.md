@@ -1,1 +1,1 @@
-command to display the current directory contents in a long
+command to display contents of current directory, including hidden files
