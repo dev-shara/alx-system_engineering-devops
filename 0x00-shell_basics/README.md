@@ -1,1 +1,1 @@
-command to delete directory
+delecting file in a directory
