@@ -1,1 +1,1 @@
-command to display the content of a directory
+script that changes the working directory to the user’s home directory.
