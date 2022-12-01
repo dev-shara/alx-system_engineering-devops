@@ -1,1 +1,1 @@
-command displays the content of a file
+command to create directory
